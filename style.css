@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    margin-left: 1060px;
+    margin-top: -70px
+
+
+}
+.btn ul {
+    color: orange;
+    font-family: arial;
+}
+.btn ul li {
+    float: left;
+    list-style: none;
+    font-size: 19px;
+    padding-top: 29px;
+    padding-left: 13px;
+    cursor: pointer;
+    transition: 0.4 ease;
+}
+.btn ul li a{
+    text-decoration: none;
+    transition: 0.4 ease;
+    cursor: pointer;
+
+}
+ul li:hover{
+    color: rgb(0, 0, 0);
+
+}
+.main {
+    margin-top: 50px;
+}
+.main h1 {
+    margin-left: 70px;
+    height: 132px;
+    font-size: 71px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main h2 {
+    margin-left: 70px;
+    font-size: 71px;
+    color: orange;
+}
+.main p {
+    margin-left: 78px;
+    font-size: 18px;
+    margin-top: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.but {
+    margin-left: 110px;
+    margin-top: 33px;
+    padding: 8px;
+    background: orange;
+    font-size: 16px;
+    border: 1px solid orange;
+    border-radius: 7px;
+}
+.but a {
+    text-decoration: none;
+    color: white;
+    transition: 0.4 ease;
+    cursor: pointer;
+
+}
+.but:hover{
+    color: black;
+    background: rgb(27, 25, 25);
+}
+.main img {
+    width: 399px;
+    margin-left: 882px;
+    margin-top: -139px;
+}
+.snd-main{
+
+}
+.snd-main img {
+    width: 391px;
+    margin-bottom: 70px;
+    margin-left: 142px;
+}
+.snd-main h1 {
+    margin-left: 749px;
+    margin-top: -299px;
+    padding-bottom: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.snd-main p {
+    margin-left: 757px;
+    padding-right: 95px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.clk{
+    margin-left: 750px;
+    margin-top: 33px;
+    padding: 8px;
+    background: orange;
+    font-size: 16px;
+    border: 1px solid orange;
+    border-radius: 7px;
+
+}
+.clk a{
+    text-decoration: none;
+    color: white;
+    transition: 0.4 ease;
+    cursor: pointer;
+    padding: 5px;
+}
+.clk:hover{
+    background: rgb(27, 25, 25);
+
+}
+.bg {
+    background: rgb(209 209 209 / 49%);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.proj h2 {
+    padding-top: 100px;
+    margin-top: 52px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 1px solid bule;
+    border-bottom: 1px solid wheat;
+    padding-bottom: 33px;
+}
+.proj span {
+    color: orangered;
+}
+.workwork {
+    width: 500px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.workwork img {
+    width: 289px;
+    border-radius: 14px;
+}
+.workwork p {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.workwork h2 {
+    text-align: center;
+    padding: 3px;
+    font-size: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#work1 {
+    width: 287px;
+    background-color: #fdf5f4;
+    margin-left: 51px;
+    padding: 13px;
+    margin-top: 13px;
+    border-radius: 17px;
+    height: 353px;
+    float: left;
+}
+#work2 {
+    width: 287px;
+    background-color: #fdf5f4;
+    margin-left: 407px;
+    padding: 13px;
+    margin-top: -375px;
+    border-radius: 17px;
+    height: 353px;
+    float: left;
+}
+#work3 {
+    width: 287px;
+    background-color: #fdf5f4;
+    margin-left: 758px;
+    padding: 13px;
+    margin-top: -379px;
+    border-radius: 17px;
+    height: 353px;
+    float: left;
+}
+.chat {
+    margin-left: 276px;
+    margin-top: 100px;
+}
+.chat img {
+    width: 885px;
+}
+.chat h2 {
+    margin-top: -133px;
+    margin-left: 61px;
+    color: white;
+    width: 308px;
+    font-size: 37px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lchat {
+    margin-left: 657px;
+    margin-top: -62px;
+    padding: 12px;
+    background: orange;
+    font-size: 18px;
+    border: 1px solid orange;
+    border-radius: 4px;
+}
+.lchat a{
+    text-decoration: none;
+    color: white;
+    transition: 0.4 ease;
+    cursor: pointer;
+    padding: 5px;
+
+}
+.lchat:hover{
+    background: black;
+}
+.last{
+    margin: 200px;
+}
+.last h3 {
+    text-align: center;
+    font-size: 32px;
+    color: #000000ad;
+}
+.last h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 33px;
+    color: #000000bf;
+}
+.last-logo img{
+    width: 50px;
+}
+#first {
+    float: left;
+    margin-left: 604px;
+    width: 82px;
+    margin-top: -188px;
+}
+
+#sec {
+    float: left;
+    margin-left: 669px;
+    width: 82px;
+    margin-top: -186px;
+}
+#thr {
+    float: left;
+    margin-left: 733px;
+    margin-top: -192px;
+}
